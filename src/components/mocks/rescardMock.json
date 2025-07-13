@@ -1,0 +1,83 @@
+{
+  "info": {
+    "id": "173464",
+    "name": "Pizza Hut",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/9/577bbeb7-47cc-4125-a3ce-a55b0590b69c_173464.JPG",
+    "locality": "Banjara Hills",
+    "areaName": "Banjara Hills",
+    "costForTwo": "₹350 for two",
+    "cuisines": ["Pizzas"],
+    "avgRating": 4.3,
+    "parentId": "721",
+    "avgRatingString": "4.3",
+    "totalRatingsString": "4.4K+",
+    "sla": {
+      "deliveryTime": 30,
+      "lastMileTravel": 0.7,
+      "serviceability": "SERVICEABLE",
+      "slaString": "25-30 mins",
+      "lastMileTravelString": "0.7 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2025-07-12 23:00:00",
+      "opened": true
+    },
+    "badges": {
+      "imageBadges": [
+        {
+          "imageId": "Rxawards/_CATEGORY-Pizza.png",
+          "description": "Delivery!"
+        }
+      ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {
+          "badgeObject": [
+            {
+              "attributes": {
+                "description": "Delivery!",
+                "imageId": "Rxawards/_CATEGORY-Pizza.png"
+              }
+            }
+          ]
+        },
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "50% OFF",
+      "subHeader": "UPTO ₹100"
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+      "aggregatedRating": {
+        "rating": "4.5",
+        "ratingCount": "213"
+      },
+      "source": "GOOGLE",
+      "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {
+    "context": "seo-data-e2d5eb5e-ab82-4465-b3ee-b44ce298047e"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/city/hyderabad/pizza-hut-banjara-hills-rest173464",
+    "type": "WEBLINK"
+  }
+}
