@@ -18,17 +18,22 @@ Developed as part of continuous frontend learning, with a strong focus on perfor
 ---
 
 ## 🚀 Live Demo
+
 <p align="center">
-  <a href="https://fodelivery.netlify.app/" target="_blank" style="position: relative; display: inline-block;" title="🚀 View Live Demo"> 
+  <a href="https://fodelivery.netlify.app/" target="_blank" title="View Live Demo">
     <img 
       src="https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?" 
-      alt="Food Ordering App" 
+      alt="Food-Ordering- App Live Demo" 
       width="400"
-      style="display: block;"
-    />
- 
+      style="border-radius:12px; border: 2px solid #ff0000;" />
   </a>
 </p>
+<p align="center">
+  <a href="https://fodelivery.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Live%20Demo-ff0000?style=for-the-badge&logo=swiggy&logoColor=white&labelColor=black" />
+  </a>
+</p>
+
 
 
 ---
