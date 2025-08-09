@@ -21,25 +21,12 @@ Developed as part of continuous frontend learning, with a strong focus on perfor
 <p align="center">
   <a href="https://fodelivery.netlify.app/" target="_blank" style="position: relative; display: inline-block;" title="🚀 View Live Demo"> 
     <img 
-      src="https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?token=GHSAT0AAAAAADGGRVZTSSQFRJ6BPI7QSAJS2EXDNZQ" 
+      src="https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?" 
       alt="Food Ordering App" 
       width="400"
       style="display: block;"
     />
-    <span style="
-      position: absolute;
-      bottom: 10px;
-      left: 50%;
-      transform: translateX(-50%);
-      background-color: rgba(0, 0, 0, 0.7);
-      color: white;
-      padding: 5px 10px;
-      font-size: 14px;
-      opacity: 0;
-      transition: opacity 0.3s;
-    " class="hover-text">
-      🚀 View Live Demo
-    </span>
+ 
   </a>
 </p>
 
@@ -49,13 +36,13 @@ Developed as part of continuous frontend learning, with a strong focus on perfor
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?token=GHSAT0AAAAAADGGRVZTSSQFRJ6BPI7QSAJS2EXDNZQ)
+![Home Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?)
 
 ### 🍽️ Restaurant Menu
-![Restaurant Menu](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Restaurant%20Menu%20page.png?token=GHSAT0AAAAAADGGRVZS4B6XA6ZS3DE3TE2I2EXDM5Q)
+![Restaurant Menu](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Restaurant%20Menu%20page.png?)
 
 ### 🛒 Cart Page
-![Cart Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Cart.png?token=GHSAT0AAAAAADGGRVZT77TX4UBONBPI5QSW2EXDNIQ)
+![Cart Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Cart.png?)
 
 ## ✨ Features
 - ⚡ **Fast Development** – Powered by Parcel bundler for quick builds & hot reloading
