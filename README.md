@@ -21,9 +21,9 @@ Developed as part of continuous frontend learning, with a strong focus on perfor
 <p align="center">
   <a href="https://fodelivery.netlify.app/" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png" 
+      src="https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?token=GHSAT0AAAAAADGGRVZTSSQFRJ6BPI7QSAJS2EXDNZQ" 
       alt="Food Ordering App" 
-      width="700" 
+      width="400" 
       height="auto"
       title="Click to view Live Demo 🚀"
     />
@@ -37,13 +37,13 @@ Developed as part of continuous frontend learning, with a strong focus on perfor
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png)
+![Home Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?token=GHSAT0AAAAAADGGRVZTSSQFRJ6BPI7QSAJS2EXDNZQ)
 
 ### 🍽️ Restaurant Menu
-![Restaurant Menu](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Restaurant%20Menu%20page.png)
+![Restaurant Menu](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Restaurant%20Menu%20page.png?token=GHSAT0AAAAAADGGRVZS4B6XA6ZS3DE3TE2I2EXDM5Q)
 
 ### 🛒 Cart Page
-![Cart Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Cart.png?)
+![Cart Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Cart.png?token=GHSAT0AAAAAADGGRVZT77TX4UBONBPI5QSW2EXDNIQ)
 
 ## ✨ Features
 - ⚡ **Fast Development** – Powered by Parcel bundler for quick builds & hot reloading
