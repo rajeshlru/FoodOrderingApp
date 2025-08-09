@@ -19,18 +19,30 @@ Developed as part of continuous frontend learning, with a strong focus on perfor
 
 ## 🚀 Live Demo
 <p align="center">
-  <a href="https://fodelivery.netlify.app/" target="_blank">
+  <a href="https://fodelivery.netlify.app/" target="_blank" style="position: relative; display: inline-block;" title="🚀 View Live Demo"> 
     <img 
       src="https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?token=GHSAT0AAAAAADGGRVZTSSQFRJ6BPI7QSAJS2EXDNZQ" 
       alt="Food Ordering App" 
-      width="400" 
-      height="auto"
-      title="Click to view Live Demo 🚀"
+      width="400"
+      style="display: block;"
     />
+    <span style="
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: rgba(0, 0, 0, 0.7);
+      color: white;
+      padding: 5px 10px;
+      font-size: 14px;
+      opacity: 0;
+      transition: opacity 0.3s;
+    " class="hover-text">
+      🚀 View Live Demo
+    </span>
   </a>
 </p>
 
-*(Deployed using Netlify for fast, reliable hosting)*
 
 ---
 
