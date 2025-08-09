@@ -42,12 +42,10 @@ Developed as part of continuous frontend learning, with a strong focus on perfor
 
 ### 🏠 Home Page
 ![Home Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?)
+| 🍽️ Restaurant Menu                                  | 🛒 Cart Page                         |
+|-----------------------------------------------------|------------------------------------|
+| ![Restaurant Menu](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Restaurant%20Menu%20page.png) | ![Cart Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Cart.png) |
 
-### 🍽️ Restaurant Menu
-![Restaurant Menu](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Restaurant%20Menu%20page.png?)
-
-### 🛒 Cart Page
-![Cart Page](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Cart.png?)
 
 ## ✨ Features
 - ⚡ **Fast Development** – Powered by Parcel bundler for quick builds & hot reloading
