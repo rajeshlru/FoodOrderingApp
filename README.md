@@ -18,7 +18,8 @@ Developed as part of continuous frontend learning, with a strong focus on perfor
 ---
 
 ## 🚀 Live Demo
-🔗 **[View App Here](https://fodelivery.netlify.app/)**  
+[![Food Ordering App](https://raw.githubusercontent.com/rajeshlru/Namaste-React/refs/heads/main/Home%20page.png?token=GHSAT0AAAAAADGGRVZTU6FROCF5K6V7OOYG2EXC35Q)](https://fodelivery.netlify.app/)
+
 *(Deployed using Netlify for fast, reliable hosting)*
 
 ---
